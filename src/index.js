@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./styles.css";
-import logo from "./CodeHustle_Logo_Sticker.jpg";
+import logo from "./CodeHustle_Logo_Sticker.png";
 
 function App() {
   return (
